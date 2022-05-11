@@ -1,4 +1,6 @@
 # 4-way-intersection
 Grade 10 Computer Tech Intersection
-![IMG_1982](https://user-images.githubusercontent.com/61877534/167752191-613eedab-d5ff-4420-9c14-6ea9d18f2a93.JPG)
-![Intersection Overlay](https://user-images.githubusercontent.com/61877534/167752200-6fa77f15-4435-4a36-a308-a0ca76ad3d8d.png)
+## Breadboard Prototype
+![IMG_1982](https://user-images.githubusercontent.com/61877534/167752628-339d1097-2b60-49f0-a926-3d75eab85c1f.JPG)
+## Intersection Overlay
+![Intersection Overlay](https://user-images.githubusercontent.com/61877534/167752630-20e23fa0-0a9d-47de-8ada-ab2d1d9b2006.png)
